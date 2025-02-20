@@ -3,7 +3,7 @@
 </p>
 
 <h2> Description </h2>
-OS ticket stands for open source ticket. OsTicket is a tool used by businesses and support teams to manage customer service requests. It helps organize and track issues or questions that customers submit through email, web forms, or other channels. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket
+Osticket stands for open source ticket. OsTicket is a tool used by businesses and support teams to manage customer service requests. It helps organize and track issues or questions that customers submit through email, web forms, or other channels. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket
 
 <h2>Environments and Technologies Used</h2>
 
@@ -19,7 +19,7 @@ OS ticket stands for open source ticket. OsTicket is a tool used by businesses a
 
 - Enable Internet Information Services (IIS)
 - Web Platform Installer 
-- Install OSTicket
+- Install OsTicket
 
 <h2>Installation Steps</h2>
 
