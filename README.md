@@ -17,34 +17,54 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable Internet Information Services  (IIS)
-- Web Platform Installer  
-- Install my Sql (set up username and password) 
-- Install my C++ Redistributable
+- Enable Internet Information Services (IIS)
+- Web Platform Installer 
 - Install OSTicket
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Log into the VM with Remote Desktop. This will allow conection the remote computer over the network or internet.
+<br />
+  
+<p>
+<img width="739" alt="Screen Shot 2025-02-20 at 9 22 20 AM" src="https://github.com/user-attachments/assets/6e312df7-7034-4844-8a69-04cd827fcdc9" />
+</p>
+
+
+
+<p>
+Inside the VM (osticket-vm), download the osTicket-Installation-Files.zip and extract it to your desktop. The folder should be named "osTicket-Installation-Files". This folder contains the necessary files for installing osTicket and its dependencies.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="652" alt="Screen Shot 2025-02-20 at 9 25 22 AM" src="https://github.com/user-attachments/assets/ffa97274-8cc4-4d37-9d6b-f096fc5d7cd6" />
 </p>
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80” 
+OsTicket should appear. If there is an error it might be because of an additional space or not going through the steps. Make sure to follow all the steps in order to proceed! 
 </p>
 <br />
+<p>
+<img width="471" alt="Screen Shot 2025-02-20 at 9 27 52 AM" src="https://github.com/user-attachments/assets/78a79b77-97a2-4a9b-9097-46ffeb03362e" />
+</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once you enable the changes in your system make sure to refresh in order to see the changes made. 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="616" alt="Screen Shot 2025-02-20 at 9 46 24 AM" src="https://github.com/user-attachments/assets/fa70aa04-46cb-46b1-8592-27279c083684" />
+
 </p>
-<br />
+
+<p>
+Finally, you have OS installed properly. Now, you are able to locate the support center and the end user website. These websites allow to add tickets or review tickets! 
+</p>
+<p> 
+  <img width="493" alt="Screen Shot 2025-02-20 at 9 43 53 AM" src="https://github.com/user-attachments/assets/a22a5d30-af32-4352-a8ee-8e3328c6d638" />
+<img width="494" alt="Screen Shot 2025-02-20 at 9 44 13 AM" src="https://github.com/user-attachments/assets/2f82b9e7-9481-4933-8fae-c10b8f3b6138" />
+</p>
+
