@@ -2,6 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
+<h1> OsTicket - Prerequisites and Installation </h1>
+
 <h2> Description </h2>
 Osticket stands for open source ticket. OsTicket is a tool used by businesses and support teams to manage customer service requests. It helps organize and track issues or questions that customers submit through email, web forms, or other channels. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system OsTicket.
 
