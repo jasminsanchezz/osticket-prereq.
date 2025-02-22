@@ -23,6 +23,9 @@ Osticket stands for open source ticket. OsTicket is a tool used by businesses an
 - Web Platform Installer 
 - Install OsTicket
 
+<h2>Make sure to download</h2>
+https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
+
 <h2>Installation Steps</h2>
 
 <p>
